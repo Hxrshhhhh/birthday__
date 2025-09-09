@@ -44,7 +44,7 @@ export const textConfig = {
       caption: "I'm truly sorry and promise to do better."
     },
     {
-      text: "This is us btw",
+      text: "Mera aashirvaad hamesa tere sath hai 🥰",
       caption: "Don't be angyyyyyyy ."
     }
   ],
