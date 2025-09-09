@@ -19,7 +19,8 @@ export const textConfig = {
     subtitle: "Click to hear my sincere apology",
     recipient: "Dear Nakul(mendak kahike 😘)",
     paragraphs: [
-      "I'm waiting for you to win....Teri iccha hai if you want toh nahi krenge baat zyada but always remember there's girl who will always wait for you.",
+      "First of all happiest birthday Nakul 🎂 Hope your special day brings you all the sweetness you bring into others lives.",
+      "And now i want to let you know that I'm waiting for you to win....Teri iccha hai if you want toh nahi krenge baat zyada but always remember there's girl who will always wait for you.",
       "I'm really really sorry for giving you random attitudes I'll try my best ki this won't happen again...I never thought ki mere mood swings ke wajah se tu mujhse door chala jayega.",
       "I hope that I can heal you in some day Please forgive me is all I wish to say."
     ],
@@ -35,8 +36,8 @@ export const textConfig = {
   
   panels: [
     {
-      text: "I know I've been miserable, and I'm truly sorry...",
-      caption: "I hope you can forgive me."
+      text: "May your life be filled with endless love, laughter, and unforgettable memories today and always.",
+      caption: "Happy birthdayyyyyy"
     },
     {
       text: "I regret my careless mistakes and the pain they caused.",

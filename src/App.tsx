@@ -1022,7 +1022,6 @@ function App() {
                       transition={{ delay: 0.8 }}
                     >
                       <p className="font-bold text-2xl text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-purple-600 mb-2">
-                        With all my love,
                       </p>
                       <p className="text-xl text-pink-600 font-comic" style={{ whiteSpace: 'pre-line' }}>
                         {textConfig.letter.signature}
